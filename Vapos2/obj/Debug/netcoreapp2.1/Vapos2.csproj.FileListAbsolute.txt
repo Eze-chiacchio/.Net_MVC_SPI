@@ -1,0 +1,80 @@
+C:\Users\Eze\source\repos\Vapos2\Vapos2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Eze\source\repos\Vapos2\Vapos2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Eze\source\repos\Vapos2\Vapos2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Eze\source\repos\Vapos2\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.deps.json
+C:\Users\Eze\source\repos\Vapos2\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.runtimeconfig.json
+C:\Users\Eze\source\repos\Vapos2\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.runtimeconfig.dev.json
+C:\Users\Eze\source\repos\Vapos2\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.dll
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.csprojAssemblyReference.cache
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.AssemblyInfoInputs.cache
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.AssemblyInfo.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorAssemblyInfo.cache
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorAssemblyInfo.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.TagHelpers.input.cache
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.TagHelpers.output.cache
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorCoreGenerate.cache
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorTargetAssemblyInfo.cache
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorTargetAssemblyInfo.cs
+C:\Users\Eze\source\repos\Vapos2\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.genruntimeconfig.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.deps.json
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.runtimeconfig.json
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.runtimeconfig.dev.json
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.dll
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.pdb
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.Views.dll
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\bin\Debug\netcoreapp2.1\Vapos2.Views.pdb
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.csprojAssemblyReference.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.AssemblyInfoInputs.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.AssemblyInfo.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorAssemblyInfo.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorAssemblyInfo.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.TagHelpers.input.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.TagHelpers.output.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorCoreGenerate.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorTargetAssemblyInfo.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.RazorTargetAssemblyInfo.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.Views.pdb
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.dll
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.pdb
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.genruntimeconfig.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.csproj.CopyComplete
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Vapos2.csproj.CoreCompileInputs.cache
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Personas\Create.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Personas\Delete.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Personas\Details.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Personas\Edit.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Personas\Index.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Registroes\Create.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Registroes\Delete.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Registroes\Details.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Registroes\Edit.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Registroes\Index.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Registroes\IndexFiltrado.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Vapoes\Create.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Vapoes\Delete.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Vapoes\Details.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Vapoes\Edit.cshtml.g.cs
+C:\Users\Eze\source\repos\Vapos2 - bueno\Vapos2\obj\Debug\netcoreapp2.1\Razor\Views\Vapoes\Index.cshtml.g.cs

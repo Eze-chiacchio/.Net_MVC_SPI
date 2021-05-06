@@ -1,0 +1,59 @@
+﻿@model Vapos2.Models.Registro
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>Registro</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.fecha)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.fecha)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.vaporizator)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.vaporizator.IdVapo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.responsable)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.responsable.nombreApe)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Prueba_Hidráulica)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Prueba_Hidráulica)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Prueba_Estanqueidad)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Prueba_Estanqueidad)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Prueba_Funcionamiento)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Prueba_Funcionamiento)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Detalles)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Detalles)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

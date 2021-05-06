@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200725155451_Vapos2.Context.RegistrosContext.cs" />
+    <Compile Remove="Migrations\20200725155451_Vapos2.Context.RegistrosContext.Designer.cs" />
+    <Compile Remove="Migrations\20200727150911_Vapos2.Context.RegistrosContext.cs" />
+    <Compile Remove="Migrations\20200727150911_Vapos2.Context.RegistrosContext.Designer.cs" />
+    <Compile Remove="Migrations\20200810155010_vapos2.Context.RegistrosContext.cs" />
+    <Compile Remove="Migrations\20200810155010_vapos2.Context.RegistrosContext.Designer.cs" />
+    <Compile Remove="Migrations\20200811152226_vapos2.Context.RegistrosContext.cs" />
+    <Compile Remove="Migrations\20200811152226_vapos2.Context.RegistrosContext.Designer.cs" />
+    <Compile Remove="Migrations\20200811153407_vapos2.Context.RegistrosContext.cs" />
+    <Compile Remove="Migrations\20200811153407_vapos2.Context.RegistrosContext.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+  </ItemGroup>
+
+</Project>

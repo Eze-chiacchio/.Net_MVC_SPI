@@ -1,0 +1,39 @@
+﻿@model Vapos2.Models.Vapo
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Editar</h2>
+
+<h4>Vapo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdVapo" />
+            <div class="form-group">
+                <label asp-for="Intecambiador_Izq" class="control-label"></label>
+                <input asp-for="Intecambiador_Izq" class="form-control" />
+                <span asp-validation-for="Intecambiador_Izq" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Intecambiador_Der" class="control-label"></label>
+                <input asp-for="Intecambiador_Der" class="form-control" />
+                <span asp-validation-for="Intecambiador_Der" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

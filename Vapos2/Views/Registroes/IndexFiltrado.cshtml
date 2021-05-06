@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Vapos2.Models.Registro>
+
+@{
+    ViewData["Title"] = "IndexFiltrado";
+    var buscado = 2;
+    
+}
+
+<h2>IndexFiltrado</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.vaporizator)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.responsable)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prueba_Hidráulica)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prueba_Estanqueidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prueba_Funcionamiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Detalles)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            @if (item.IdVapo.Equals(buscado))
+            {
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fecha)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.vaporizator.IdVapo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.responsable.nombreApe)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Prueba_Hidráulica)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Prueba_Estanqueidad)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Prueba_Funcionamiento)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Detalles)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.IdRegistro">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.IdRegistro">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.IdRegistro">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

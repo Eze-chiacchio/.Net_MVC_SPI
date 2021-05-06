@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Vapos2.Models.Vapo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Vapos</h2>
+
+<p>
+    <a asp-action="Create">Crear nuevo:</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdVapo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Intecambiador_Izq)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Intecambiador_Der)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdVapo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Intecambiador_Izq)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Intecambiador_Der)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdVapo">Editar</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdVapo">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
